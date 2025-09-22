@@ -1,0 +1,15 @@
+C:\Users\APPLE\Documents\BT05_1609\JPACRUD\src\main\java\vn\thang\app\dao\CategoryDAO.java
+C:\Users\APPLE\Documents\BT05_1609\JPACRUD\src\main\java\vn\thang\app\dao\GenericDAO.java
+C:\Users\APPLE\Documents\BT05_1609\JPACRUD\src\main\java\vn\thang\app\dao\JPAUtil.java
+C:\Users\APPLE\Documents\BT05_1609\JPACRUD\src\main\java\vn\thang\app\dao\UserDAO.java
+C:\Users\APPLE\Documents\BT05_1609\JPACRUD\src\main\java\vn\thang\app\dao\VideoDAO.java
+C:\Users\APPLE\Documents\BT05_1609\JPACRUD\src\main\java\vn\thang\app\entity\Category.java
+C:\Users\APPLE\Documents\BT05_1609\JPACRUD\src\main\java\vn\thang\app\entity\User.java
+C:\Users\APPLE\Documents\BT05_1609\JPACRUD\src\main\java\vn\thang\app\entity\Video.java
+C:\Users\APPLE\Documents\BT05_1609\JPACRUD\src\main\java\vn\thang\app\filter\AuthAdminFilter.java
+C:\Users\APPLE\Documents\BT05_1609\JPACRUD\src\main\java\vn\thang\app\servlet\admin\CategoryAdminServlet.java
+C:\Users\APPLE\Documents\BT05_1609\JPACRUD\src\main\java\vn\thang\app\servlet\admin\UserAdminServlet.java
+C:\Users\APPLE\Documents\BT05_1609\JPACRUD\src\main\java\vn\thang\app\servlet\admin\VideoAdminServlet.java
+C:\Users\APPLE\Documents\BT05_1609\JPACRUD\src\main\java\vn\thang\app\servlet\DebugServlet.java
+C:\Users\APPLE\Documents\BT05_1609\JPACRUD\src\main\java\vn\thang\app\servlet\LoginServlet.java
+C:\Users\APPLE\Documents\BT05_1609\JPACRUD\src\main\java\vn\thang\app\servlet\ProfileServlet.java
